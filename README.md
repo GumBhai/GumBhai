@@ -8,6 +8,8 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-GumBhai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GumBhai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh_Khod-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkhod/)
+[![Instagram](https://img.shields.io/badge/Instagram-@harshkhod-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harshkhod/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkhod2@gmail.com)
 
 </div>
